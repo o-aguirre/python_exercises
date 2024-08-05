@@ -1,6 +1,4 @@
 #Imprimir los caracteres de una cadena utilizando el ciclo for
 
-string = 'esta es una cadena'
-
-for i in string:
+for i in 'esta es una cadena':
     print(i)
